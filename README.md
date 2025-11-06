@@ -34,3 +34,9 @@ All experiments run on **Google Colab Pro (T4/A100)**.
 ## Setup
 ```bash
 pip install -U unsloth transformers datasets trl peft bitsandbytes accelerate torch
+
+
+🎥 YouTube Walkthrough
+
+Watch the full walkthrough and explanation here:
+📺 Modern AI with Unsloth.ai – Project Presentation (https://www.youtube.com/watch?v=iytpEdf20NI)
